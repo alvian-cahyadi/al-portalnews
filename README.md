@@ -1,6 +1,7 @@
 # alnews
 
-A new Flutter project.
+flutter project portal news get data from API
+and login with SharedPreferrences library
 
 ## Getting Started
 
